@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://github.com/dxnsav/hugeicons-cli#readme
+    about: Check the README for usage guides and configuration reference
+  - name: HugeIcons Official
+    url: https://hugeicons.com
+    about: For issues with the icon packages themselves, contact HugeIcons directly
