@@ -4,7 +4,7 @@
   "description": "Interactive CLI for managing HugeIcons Pro icon exports. Tree-shakeable barrel files made easy.",
   "type": "module",
   "bin": {
-    "hugeicons": "./bin/hugeicons.mjs"
+    "hugeicons": "bin/hugeicons.mjs"
   },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
